@@ -7,10 +7,13 @@ let array_url = ["file:///Users/macbookpro/Desktop/index.html", "https://nso.go.
 $(document).ready(function () {
   $("p, a, b, s, u, strong, span, label, h1, h2, h3, h4, h5, h6").hover(
     function () {
+      console.log("start")
       let url = window.location.href;
       if (array_url.includes(url.split("?")[0])) {
       clearTimeout(timer_div);
       if (!isSpeaking) {
+
+      console.log("start2")
         timer = setTimeout(() => {
           speakText($(this).text());
           clearTimeout(timer);
