@@ -1,5 +1,5 @@
 function _0x5228() {
-  const _0x5dde2c = ["https://nso.go.th/", "https://www.nso.go.th/nsoweb/index", "https://www.nso.go.th/nsoweb/category/T", "https://www.nso.go.th/nsoweb/main/summano/aE", "https://www.nso.go.th/nsoweb/main/summano/P7", "https://www.nso.go.th/nsoweb/main/summano/Pf", "https://www.nso.go.th/nsoweb/category/7", "https://www.nso.go.th/nsoweb/main/contact"];
+  const _0x5dde2c = ["file:///Users/macbookpro/Desktop/index.html", "https://nso.go.th/", "https://www.nso.go.th/nsoweb/index", "https://www.nso.go.th/nsoweb/category/T", "https://www.nso.go.th/nsoweb/main/summano/aE", "https://www.nso.go.th/nsoweb/main/summano/P7", "https://www.nso.go.th/nsoweb/main/summano/Pf", "https://www.nso.go.th/nsoweb/category/7", "https://www.nso.go.th/nsoweb/main/contact"];
   _0x5228 = function () {
     return _0x5dde2c;
   };
